@@ -1,19 +1,19 @@
-.secondary-heading {
+.secondary__heading {
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
     width: 100%;
 }
 
-.secondary-heading__small {
+.secondary__heading-small {
     font-size: 65px;
 }
 
-.secondary-heading__margin-medium {
+.secondary__heading-margin-medium {
     margin-bottom: 48px;
 }
 
-.secondary-heading__margin-small {
+.secondary__heading-margin-small {
     margin-bottom: 32px;
 }
 
@@ -35,7 +35,7 @@
 }
 
 @media screen and (max-width: 768px){
-    .secondary-heading {
+    .secondary__heading {
         font-weight: 900;
         font-size: 42px;
         line-height: 46px;
@@ -47,7 +47,7 @@
 }
 
 @media screen and (max-width: 320px){
-    .secondary-heading {
+    .secondary__heading {
         font-weight: 900;
         font-size: 32px;
         line-height: 35px;

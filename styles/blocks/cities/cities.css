@@ -10,7 +10,7 @@
     gap: 40px;
 }
 
-.cities__author_box {
+.cities__author-box {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
