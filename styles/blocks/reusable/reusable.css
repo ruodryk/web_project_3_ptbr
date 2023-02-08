@@ -1,22 +1,3 @@
-.secondary__heading {
-    font-weight: 900;
-    font-size: 72px;
-    line-height: 76px;
-    width: 100%;
-}
-
-.secondary__heading-small {
-    font-size: 65px;
-}
-
-.secondary__heading-margin-medium {
-    margin-bottom: 48px;
-}
-
-.secondary__heading-margin-small {
-    margin-bottom: 32px;
-}
-
 .btn:link, .btn:visited {
     color: white;
     background-color: #0278FE;
@@ -35,24 +16,12 @@
 }
 
 @media screen and (max-width: 768px){
-    .secondary__heading {
-        font-weight: 900;
-        font-size: 42px;
-        line-height: 46px;
-    }
-
     .btn:link, .btn:visited, .btn:hover, .btn:active {
         font-size: 16px;
     }
 }
 
 @media screen and (max-width: 320px){
-    .secondary__heading {
-        font-weight: 900;
-        font-size: 32px;
-        line-height: 35px;
-    }
-
     .btn:link, .btn:visited, .btn:hover, .btn:active {
         font-size: 14px;
     }

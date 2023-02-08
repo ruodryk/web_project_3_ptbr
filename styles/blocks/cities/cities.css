@@ -52,6 +52,25 @@
     width: 100%;
 }
 
+.cities__heading {
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    width: 100%;
+}
+
+.cities__heading-small {
+    font-size: 65px;
+}
+
+.cities__heading-margin-medium {
+    margin-bottom: 48px;
+}
+
+.cities__heading-margin-small {
+    margin-bottom: 32px;
+}
+
 @media screen and (max-width: 768px){
     .cities__container {
         margin: 88px 16px;
@@ -62,6 +81,12 @@
         font-weight: 400;
         font-size: 16px;
         line-height: 163%;
+    }
+
+    .cities__heading {
+        font-weight: 900;
+        font-size: 42px;
+        line-height: 46px;
     }
 }
 
@@ -75,10 +100,15 @@
     .cities__img {
         width: 120%;
         margin-left: -10%;
-
     }
 
     .cities__author {
         font-size: 16px;
+    }
+
+    .cities__heading {
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 35px;
     }
 }
