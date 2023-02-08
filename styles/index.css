@@ -1,0 +1,10 @@
+@import url("../fonts/InterWeb/inter.css");
+@import url("blocks/normalize.css");
+@import url("blocks/initial/initial.css");
+@import url("blocks/header/header.css");
+@import url("blocks/intro/intro.css");
+@import url("blocks/article/article.css");
+@import url("blocks/gallery/gallery.css");
+@import url("blocks/cities/cities.css");
+@import url("blocks/footer/footer.css");
+@import url("blocks/reusable/reusable.css");

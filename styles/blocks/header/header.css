@@ -1,0 +1,16 @@
+.header__logo_box {
+    max-width: 1280px;
+    display: flex;
+    margin: 34px auto;
+}
+
+.header__img {
+    margin: auto;
+}
+
+@media screen and (max-width: 320px){
+    .header__img {
+        width: 200px;
+        height: auto;
+    }
+}
